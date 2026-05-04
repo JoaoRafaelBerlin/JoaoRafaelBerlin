@@ -2,10 +2,10 @@
 
 * 🎓 Estudante de Análise e Desenvolvimento de Sistemas (1/5) | UNA/BH
 
-* Em transição estratégica para a área de tecnologia 
+* Em transição estratégica para a área de tecnologia
+* 💻 Projetos acadêmicos e práticos
 * 🚀 Interesse em: Desenvolvimento de sistemas escaláveis, arquitetura de software e soluções centradas no usuário.
 
-## Tecnologias & Ferramentas
 <!--
 **JoaoRafaelBerlin/JoaoRafaelBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
