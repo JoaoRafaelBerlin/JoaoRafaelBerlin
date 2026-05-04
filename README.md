@@ -1,10 +1,5 @@
 ## Olá, eu sou João Fonseca 👋
 
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas (1/5) | UNA/BH
-
-* Em transição estratégica para a área de tecnologia
-* 💻 Projetos acadêmicos e práticos
-* 🚀 Interesse em: Desenvolvimento de sistemas escaláveis, arquitetura de software e soluções centradas no usuário.
 * ## Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas** com sólida trajetória internacional, transformando experiência em resolução de problemas complexos em soluções de software eficientes.
