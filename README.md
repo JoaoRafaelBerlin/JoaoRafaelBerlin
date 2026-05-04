@@ -8,7 +8,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** em transição estratég
 * 🌍 **Trajetória Internacional:** Experiência no Centro de Contacto dos Consulados Portugueses (Alemanha e Áustria) e supervisão de atendimento em Berlim.
 * 🧠 **Background:** Pós-graduado (MBA) em Gestão de PMEs e Bacharel em Farmácia, unindo visão de negócio ao pensamento analítico.
 * 💻 **Projetos:** Desenvolvimento de Jogos Educacionais (Scratch), Auditoria de Acessibilidade (WCAG) e Protótipos em Figma.
-* 🧩 **Interesse em:** UX/UI Design, Análise de Dados e Desenvolvimento de Soluções Acessíveis[cite: 1].
+* 🧩 **Interesse em:** UX/UI Design, Análise de Dados e Desenvolvimento de Soluções Acessíveis.
 
 <!--
 **JoaoRafaelBerlin/JoaoRafaelBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
