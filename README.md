@@ -1,9 +1,11 @@
 ## Olá, eu sou João Fonseca 👋
 
-* Estudante de Análise e Desenvolvimento de Sistemas (1/5) | UNA/BH 
-* Em transição estratégica para a área de tecnologia 
-* Interesse em desenvolvimento de software, sistemas e transformação digital
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas (1/5) | UNA/BH
 
+* Em transição estratégica para a área de tecnologia 
+* 🚀 Interesse em: Desenvolvimento de sistemas escaláveis, arquitetura de software e soluções centradas no usuário.
+
+## Tecnologias & Ferramentas
 <!--
 **JoaoRafaelBerlin/JoaoRafaelBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
