@@ -6,9 +6,9 @@
 
 * 🎓 **Graduando em ADS** | Centro Universitário UNA (1/5)
 * 🌍 **Experiência Internacional:** Atuação nos Consulados Portugueses (Alemanha e Áustria).
-* 🛠️ **Suporte & Sistemas:** Experiência em diagnóstico de situações críticas e resolução de problemas sob pressão[cite: 1].
-* 🇩🇪 **Idiomas:** Alemão (B2) e Inglês (B1)[cite: 1].
-* 💻 **Projetos:** UX/UI (Figma), Acessibilidade (WCAG) e Lógica de Programação[cite: 1].
+* 🛠️ **Suporte & Sistemas:** Experiência em diagnóstico de situações críticas e resolução de problemas sob pressão.
+* 🇩🇪 **Idiomas:** Alemão (B2) e Inglês (B1).
+* 💻 **Projetos:** UX/UI (Figma), Acessibilidade (WCAG) e Lógica de Programação[Colab].
 
 ---
 
