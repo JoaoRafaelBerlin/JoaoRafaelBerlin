@@ -1,14 +1,14 @@
 ## Olá, eu sou João Fonseca 👋
 
-* ## Sobre mim
+## Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** com sólida trajetória internacional, transformando experiência em resolução de problemas complexos em soluções de software eficientes.
+Estudante de **Análise e Desenvolvimento de Sistemas** em transição estratégica para a área de tecnologia. Trago uma bagagem profissional sólida e internacional, focada na resolução de problemas complexos e na experiência do usuário (UX).
 
-* 🎓 **Graduando em Análise e Desenvolvimento de Sistemas (1/5)** | [UNA/BH]
-* 🌍 **Experiência Internacional:** Atuação estratégica nos Consulados Portugueses (Alemanha e Áustria).
-* 🧠 **Problem Solving:** Especialista em diagnóstico de situações críticas e atendimento multicanal sob pressão.
-* 🇩🇪 **Idiomas:** Alemão (Fluente) | Inglês (Intermediário).
-* 🚀 **Interesse em:** Desenvolvimento de sistemas escaláveis, arquitetura de software e soluções centradas no usuário.
+* 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** (1/5) | Centro Universitário UNA
+* 🌍 **Trajetória Internacional:** Experiência no Centro de Contacto dos Consulados Portugueses (Alemanha e Áustria) e supervisão de atendimento em Berlim.
+* 🧠 **Background:** Pós-graduado (MBA) em Gestão de PMEs e Bacharel em Farmácia, unindo visão de negócio ao pensamento analítico.
+* 💻 **Projetos:** Desenvolvimento de Jogos Educacionais (Scratch), Auditoria de Acessibilidade (WCAG) e Protótipos em Figma.
+* 🧩 **Interesse em:** UX/UI Design, Análise de Dados e Desenvolvimento de Soluções Acessíveis[cite: 1].
 
 <!--
 **JoaoRafaelBerlin/JoaoRafaelBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
