@@ -10,17 +10,16 @@ Estudante de **Análise e Desenvolvimento de Sistemas** em transição estratég
 * 💻 **Projetos:** Desenvolvimento de Jogos Educacionais (Scratch), Auditoria de Acessibilidade (WCAG) e Protótipos em Figma.
 * 🧩 **Interesse em:** UX/UI Design, Análise de Dados e Desenvolvimento de Soluções Acessíveis.
 
-<!--
-**JoaoRafaelBerlin/JoaoRafaelBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Badges de Idiomas (Seu grande diferencial) -->
+![Alemão](https://img.shields.io/badge/Alem%C3%A3o-N%C3%ADvel%20B2-brightgreen)
+![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-N%C3%ADvel%20B1-blue)
+
+<!-- Badges de Competências Técnicas -->
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-20232A?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
