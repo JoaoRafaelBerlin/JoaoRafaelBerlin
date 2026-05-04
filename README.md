@@ -2,13 +2,13 @@
 
 ## Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** em transição estratégica para a área de tecnologia. Trago uma bagagem profissional sólida e internacional, focada na resolução de problemas complexos e na experiência do usuário (UX).
+**Estagiário de TI focado em Desenvolvimento de Software, Suporte Técnico e Sistemas Operacionais.**
 
-* 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** (1/5) | Centro Universitário UNA
-* 🌍 **Trajetória Internacional:** Experiência no Centro de Contacto dos Consulados Portugueses (Alemanha e Áustria) e supervisão de atendimento em Berlim.
-* 🧠 **Background:** Pós-graduado (MBA) em Gestão de PMEs e Bacharel em Farmácia, unindo visão de negócio ao pensamento analítico.
-* 💻 **Projetos:** Desenvolvimento de Jogos Educacionais (Scratch), Auditoria de Acessibilidade (WCAG) e Protótipos em Figma.
-* 🧩 **Interesse em:** UX/UI Design, Análise de Dados e Desenvolvimento de Soluções Acessíveis.
+* 🎓 **Graduando em ADS** | Centro Universitário UNA (1/5)
+* 🌍 **Experiência Internacional:** Atuação nos Consulados Portugueses (Alemanha e Áustria).
+* 🛠️ **Suporte & Sistemas:** Experiência em diagnóstico de situações críticas e resolução de problemas sob pressão[cite: 1].
+* 🇩🇪 **Idiomas:** Alemão (B2) e Inglês (B1)[cite: 1].
+* 💻 **Projetos:** UX/UI (Figma), Acessibilidade (WCAG) e Lógica de Programação[cite: 1].
 
 ---
 
