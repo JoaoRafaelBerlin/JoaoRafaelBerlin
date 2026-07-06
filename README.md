@@ -4,7 +4,7 @@
 
 **Estagiário de TI focado em Desenvolvimento de Software, Suporte Técnico e Sistemas Operacionais.**
 
-* 🎓 **Graduando em ADS** | Centro Universitário UNA (1/5)
+* 🎓 **Graduando em ADS** | Centro Universitário UNA (2/5)
 * 🌍 **Experiência Internacional:** Atuação nos Consulados Portugueses (Alemanha e Áustria).
 * 🛠️ **Suporte & Sistemas:** Experiência em diagnóstico de situações críticas e resolução de problemas sob pressão.
 * 🇩🇪 **Idiomas:** Alemão (B2) e Inglês (B1).
